@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Practice Session">
+    <test name="SpiceJetDemo">
+        <classes>
+            <class name="com.qa.spicejet.TestCases.LandingPageTest"/>
+            <class name="com.qa.spicejet.TestCases.LoginPageTest"/>
+            <class name="com.qa.spicejet.TestCases.SignUpPageTest"/>
+            <class name="com.qa.spicejet.TestCases.SpicePageTest"/>
+        </classes>
+    </test>
+</suite>
